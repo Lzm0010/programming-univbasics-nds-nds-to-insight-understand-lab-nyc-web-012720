@@ -14,11 +14,11 @@ def print_first_directors_movie_titles
  spielberg_movies = directors_database[0][:movies]
  i = 0
  
- while i < spielberg_movies.length do
-  title = spielberg_movies[i][:title]
-  output_movies << title
-  i += 1
- end
+# while i < spielberg_movies.length do
+#   title = spielberg_movies[i][:title]
+#   output_movies << title
+#   i += 1
+# end
  
- return output_movies.join("\n")
+# return output_movies.join("\n")
 end
