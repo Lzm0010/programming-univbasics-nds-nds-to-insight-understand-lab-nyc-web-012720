@@ -10,9 +10,9 @@ end
 def print_first_directors_movie_titles
  #array of Hashes (each a director) with key of movies (array) of hashes with movie properties (key = title)
 
- output_movies = []
- spielberg_movies = directors_database[0][:movies]
- i = 0
+# output_movies = []
+# spielberg_movies = directors_database[0][:movies]
+# i = 0
  
 # while i < spielberg_movies.length do
 #   title = spielberg_movies[i][:title]
@@ -21,4 +21,6 @@ def print_first_directors_movie_titles
 # end
  
 # return output_movies.join("\n")
+
+  dire
 end
