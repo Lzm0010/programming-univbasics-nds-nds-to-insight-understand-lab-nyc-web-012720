@@ -20,7 +20,6 @@ def print_first_directors_movie_titles
 #   i += 1
 # end
  
-# return output_movies.join("\n")
+ output_movies.join("\n")
 
-# p directors_database
 end
