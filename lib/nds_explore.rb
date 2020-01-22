@@ -16,7 +16,7 @@ def print_first_directors_movie_titles
  
   while i < spielberg_movies.length do
     title = spielberg_movies[i][:title]
-    puts title
+    p title
     i += 1
   end
  
