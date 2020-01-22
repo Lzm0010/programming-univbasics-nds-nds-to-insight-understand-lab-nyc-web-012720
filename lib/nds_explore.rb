@@ -22,5 +22,5 @@ def print_first_directors_movie_titles
  
 # return output_movies.join("\n")
 
-  directors_database
+
 end
