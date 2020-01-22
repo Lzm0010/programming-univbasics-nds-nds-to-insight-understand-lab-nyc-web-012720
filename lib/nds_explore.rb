@@ -20,6 +20,6 @@ while i < spielberg_movies.length do
   i += 1
 end
  
- output_movies.join("\n")
+output_movies.join("\n")
 
 end
