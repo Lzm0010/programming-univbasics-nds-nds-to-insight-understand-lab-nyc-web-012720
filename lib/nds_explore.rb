@@ -20,5 +20,5 @@ def print_first_directors_movie_titles
   i += 1
  end
  
- output_movies.join(\n)
+ output_movies.join("\n")
 end
