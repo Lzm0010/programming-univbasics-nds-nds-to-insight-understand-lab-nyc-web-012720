@@ -20,6 +20,6 @@ def print_first_directors_movie_titles
     i += 1
   end
  
-  pp output_movies.join("\n")
+  return output_movies.join("\n")
 
 end
